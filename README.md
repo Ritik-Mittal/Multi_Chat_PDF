@@ -1,7 +1,7 @@
 # Multi_Chat_PDF
 A Program using which we can chat with Multiple Pdf
 
-#Steps To Run This Project
+# Steps To Run This Project
 1. To Run This Project First You Need To Clone The Repository.
 2. Install The Requirement.txt By Using This Command "pip install -r requirement.txt".
 3. Go inside the MultiChatPDF Directory By Using This Command "cd MultiChatPDF".
